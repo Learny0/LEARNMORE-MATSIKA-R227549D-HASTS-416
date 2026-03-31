@@ -1,7 +1,8 @@
 
 
 # HASTS 416 - Tutorial 1 Solutions
-
+#R227549D LEARNMORE MATSIKA
+#HDSC
 ---
 
 ## **QUESTION A1: 5-State Markov Chain**
